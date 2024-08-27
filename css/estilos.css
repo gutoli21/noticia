@@ -1,0 +1,58 @@
+[16:53, 22/08/2024] gutoli: do css
+[16:53, 22/08/2024] bruno irmão: body {
+            background: white;
+            text-align: center;
+        }
+
+        h1 {
+            font-family: "Arial";
+            color: black;
+            background-color: red;
+            text-align: center;
+        }
+
+        h3 {
+            font-family: "Arial";
+            color: red;
+			background-color: black;
+            text-align: center;
+        }
+
+        .noticia {
+            margin: 20px;
+            padding: 15px;
+            border: 1px solid black;
+            background-color: lightgray;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            cursor: pointer;
+        }
+
+        .noticia a {
+            text-decoration: none;
+            color: red;
+        }
+
+        .noticia a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Página de Notícias</h1>
+
+    <div class="noticia">
+        <h3><a href="noticia1.html">Notícia 1</a></h3>
+        <p>Resumo da Notícia 1. Clique para ler mais.</p>
+    </div>
+
+    <div class="noticia">
+        <h3><a href="noticia2.html">Notícia 2</a></h3>
+        <p>Resumo da Notícia 2. Clique para ler mais.</p>
+    </div>
+
+    <div class="noticia">
+        <h3><a href="noticia3.html">Notícia 3</a></h3>
+        <p>Resumo da Notícia 3. Clique para ler mais.</p>
+    </div>

@@ -1,0 +1,10 @@
+<html lang="pt-br">
+<head>
+<title>Noticia1</title>
+<meta
+</head>
+<body>
+<h1>Noticia 1</h1>
+
+</body>
+</body>
